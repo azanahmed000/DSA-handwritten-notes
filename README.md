@@ -29,7 +29,8 @@ Each section includes brief theory, complexity notes, and practice insights from
 
 ## 📂 Access Notes
 View or download the complete PDF here:  
-👉 [**DSA Notes (Google Drive)**]((https://drive.google.com/drive/folders/15jbf1VlvlerLrXWdKfAQoqXJDqiia6l4))
+👉 [**DSA Notes (Google Drive)**](                                  
+(https://drive.google.com/drive/folders/15jbf1VlvlerLrXWdKfAQoqXJDqiia6l4))
 
 ---
 
